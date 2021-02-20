@@ -25,5 +25,5 @@ export default db;
 
 Now it will run smoothly without any error. Provided that you have made a firestore database. Mine is called messages(use efect in app.js). With three fiels message, Sent by and stamp.. Configure yours too.
 
-Best Of Luck
+Best Of Luck <br/>
 Kushal A. :)
